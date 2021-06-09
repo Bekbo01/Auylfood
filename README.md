@@ -1,17 +1,17 @@
 # Auylfood
-Бұл Auylfood серверін Ubuntu ОЖ-де орнату, іске қосу және орналастыру туралы нұсқаулық.
-Жобаны орнату және іске қосу үшін сізге қажет:
-• python3
-• pip
-• виртуалды орта
-Орнату үшін:
-  sudo apt-get update
-  sudo apt-get install python3
-  sudo apt-get install python-pip
-  pip install virtualenv
-Орнату
-Клон репозиторийі:
-        	  git clone bekbo@repo
+#Бұл Auylfood серверін Ubuntu ОЖ-де орнату, іске қосу және орналастыру туралы нұсқаулық.
+#Жобаны орнату және іске қосу үшін сізге қажет:
+#• python3
+#• pip
+#• виртуалды орта
+#Орнату үшін:
+#  sudo apt-get update
+#  sudo apt-get install python3
+#  sudo apt-get install python-pip
+#  pip install virtualenv
+#Орнату
+#Клон репозиторийі:
+#        	  git clone bekbo@repo
 Auylfood қалтасына өтіп, виртуалды орта жасаңыз:
   cd Auylfood
  virtualenv -p /usr/bin/python3.5 venv
