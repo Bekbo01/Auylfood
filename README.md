@@ -5,10 +5,10 @@
  - pip
  - виртуалды орта
 Орнату үшін:
-   sudo apt-get update
-   sudo apt-get install python3
-   sudo apt-get install python-pip
-   pip install virtualenv
+###   sudo apt-get update
+###   sudo apt-get install python3
+###   sudo apt-get install python-pip
+###   pip install virtualenv
  Орнату
  Клон репозиторийі:
          	  git clone bekbo@repo
